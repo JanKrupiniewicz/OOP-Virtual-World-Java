@@ -1,0 +1,3 @@
+This project is an Object-Oriented Programming simulator of a world with various organisms. The world is represented as a grid, and different organisms inhabit the grid. The project uses Java's Swing library for the GUI. The world can be either square or hexagonal, offering different types of interactions between organisms.
+<img width="290" alt="Zrzut ekranu 2024-02-29 234138" src="https://github.com/JanKrupiniewicz/OOP-Virtual-World-Java/assets/128649617/ec0d8e53-91f9-47d9-b509-1d16f8ee02b4">
+<img width="719" alt="Zrzut ekranu 2024-02-29 234205" src="https://github.com/JanKrupiniewicz/OOP-Virtual-World-Java/assets/128649617/3e6cf869-b561-430f-837f-4c1a084c73fb">
